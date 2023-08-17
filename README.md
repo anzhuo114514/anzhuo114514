@@ -1,3 +1,5 @@
-[Header
-Visitors
-](https://camo.githubusercontent.com/ba0ad4f95fbcdfb0d19202815696c81974bf0dc95b8c60016d4c84be1a285c34/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f404f53746172734f3f7468656d653d72756c653334)https://camo.githubusercontent.com/ba0ad4f95fbcdfb0d19202815696c81974bf0dc95b8c60016d4c84be1a285c34/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f404f53746172734f3f7468656d653d72756c653334
+![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=OStarsO&fontSize=60)
+---
+#### Visitors
+![](https://count.getloli.com/get/@OStarsO?theme=rule34)
+
